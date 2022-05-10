@@ -131,6 +131,11 @@ body {
         visibility: visible;
         opacity: 1;
     }
+    
+    .slider {
+        height: 24px;
+    }
+
 
 
 
