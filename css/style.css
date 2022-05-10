@@ -108,7 +108,29 @@ body {
     visibility: visible;
     bottom: 50px;
     opacity: 1;
-
 }
 
+
+
+/* RESPONSIVO */
+
+@media (max-width:768px) {
+    .logo {
+        max-width: 360px;
+    }
+
+    .container-input {
+        max-width: 300px;
+    }
+
+    .container-senha {
+        max-width: 300px;
+    }
+
+
+
+
+
+
+}
 
